@@ -249,8 +249,3 @@ coverage report -m
 - JWT authentication required for creation APIs
 - Redirect API is public
 
----
-
-🔥 :contentReference[oaicite:2]{index=2}
-
-Just tell 👍
